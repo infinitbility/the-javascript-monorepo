@@ -1,2 +1,1 @@
-# monorepo
-monorepo
+# the-javascript-monorepo
